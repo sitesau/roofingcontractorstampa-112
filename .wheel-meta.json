@@ -1,0 +1,22 @@
+{
+  "wheel_id": 697,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-112",
+  "project": "roof-repairs-tampa-what-to-expect-324cd304cebaa4d924767d5e2a2fb",
+  "parent_t1_ref": "roofingcontractorstampa-155",
+  "node_role": "feeder",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roof repairs tampa what to expect",
+  "intended_url": "http://roof-repairs-tampa-what-to-expect-324cd304cebaa4d924767d5e2a2fb.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "bc9bde756acd3735",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repairs-tampa-checklist-19f5d5c5d4d44412f7be844331a85aefc5/",
+      "anchor": "Roof Repairs Tampa Checklist: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
